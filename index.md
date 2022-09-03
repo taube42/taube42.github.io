@@ -9,6 +9,6 @@ This is currently designed my Writ 350; however, it will eventually become my te
 
 ## [Digital Media and Databases](./Digital-Media-and-Databases)
 
-> Click here to view this blog. 
-
+> Digital media plays a significant role in my career for two reasons. It advertises my services and provides important training material...
+[Read More](./Digital-Media-and-Databases)
 

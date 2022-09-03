@@ -15,8 +15,11 @@ I am currently not as involved in the digital media side of the company as I wou
 For this blog I would like to add my company’s digital media sites. No, this is not advertisement. It just best represents what I am trying to accomplish. 
 
 
-[XTIVIA Blog](https://www.xtivia.com/blog/)
+[Company Blog](https://www.xtivia.com/blog/)
 
-[XTIVIA Youtube Channel](https://www.youtube.com/c/XTIVIA)
+[Company Youtube Channel](https://www.youtube.com/c/XTIVIA)
 
-[back](./)
+
+
+## 
+[Back to Home](./)
