@@ -12,7 +12,7 @@ My favorite self-paced training site is actually a paid site called **Udemy**. Y
 ![UdemyCat](\assets\images\UdemyCat.JPG)
 
 
-The reason I use this site instead of others is because the videos are made my reliable people. They are real courses with real resources. They are 100% self-paced and you get the keep the courses **_indefinitely_**! This means you can rewatch the lectures as often as you need. The courses are usually pretty indepth at explaining whatever topic you are looking for. I currently use it for keeping up with SharePoint and SQL Server versions.
+The reason I use this site instead of others is because the videos are made my reliable people. They are real courses with real resources. They are 100% self-paced and you get the keep the courses **_indefinitely_**! This means you can rewatch the lectures as often as you need. The courses are usually pretty in-depth at explaining whatever topic you are looking for. I currently use it for keeping up with SharePoint and SQL Server versions.
 
 ![UdemyOptions](\assets\images\UdemyOptions.JPG)
 
