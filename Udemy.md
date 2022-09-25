@@ -11,6 +11,6 @@ My favorite self-paced training site is actually a paid site called Udemy. You l
 
 ![UdemyCat](\assets\images\UdemyCat.JPG)
 
-![UdemyOptions](https://github.com/taube42/taube42.github.io/blob/main/Image/UdemyOptions.JPG)
+![UdemyOptions](\assets\images\UdemyOptions.JPG)
 
 [Back to Home](./)
