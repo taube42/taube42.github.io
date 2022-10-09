@@ -10,14 +10,19 @@ This is currently designed my Writ 350; however, it will eventually become my te
 
 # Recent Blog
 
-## Udemy
+## Who Even Reads These?
 
-> My favorite self-paced training site is actually a paid site called Udemy. You locate the course you are looking for and purchase it. There are many...
-[Read More](./Udemy)
+> There are three groups of audiences reading a technical blog...
+[Read More](./WhoEvenReadsThese)
 
 
 
 # Past Blogs
+
+## Udemy
+
+> My favorite self-paced training site is actually a paid site called Udemy. You locate the course you are looking for and purchase it. There are many...
+[Read More](./Udemy)
 
 ## Digital Media and Databases
 
