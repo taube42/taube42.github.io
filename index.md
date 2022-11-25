@@ -10,14 +10,19 @@ This is currently designed my Writ 350; however, it will eventually become my te
 
 # Recent Blog
 
-## Who Even Reads These?
+## Microsoft Wiki Pages are Lacking
 
-> There are three groups of audiences reading a technical blog...
-[Read More](./WhoEvenReadsThese)
+> While reading Wikipedia articles on my chosen topic, I noticed something that I have not before. Wikipedia is sparse on information involving my career field...
+[Read More](./MicrosoftWiki)
 
 
 
 # Past Blogs
+
+## Who Even Reads These?
+
+> There are three groups of audiences reading a technical blog...
+[Read More](./WhoEvenReadsThese)
 
 ## Udemy
 
