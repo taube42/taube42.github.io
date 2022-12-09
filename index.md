@@ -10,14 +10,21 @@ This is currently designed my Writ 350; however, it will eventually become my te
 
 # Recent Blog
 
+
+## Final Thoughts
+
+> While my understanding and thoughts as a composer have not changed since the start of this semester, this course force me to focus on subjects I had not thought to before...
+[Read More](./FinalThoughts)
+
+
+# Past Blogs
+
+
 ## Microsoft Wiki Pages are Lacking
 
 > While reading Wikipedia articles on my chosen topic, I noticed something that I have not before. Wikipedia is sparse on information involving my career field...
 [Read More](./MicrosoftWiki)
 
-
-
-# Past Blogs
 
 ## Who Even Reads These?
 
