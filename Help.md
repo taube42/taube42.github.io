@@ -5,7 +5,7 @@ layout: default
 
 # Welcome To My Blog!
 
-This is currently designed my Writ 350; however, it will eventually become my technical blog. 
+This is currently designed for my Writ 350; however, it will eventually become my technical blog. 
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
